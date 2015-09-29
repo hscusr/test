@@ -1,5 +1,0 @@
-<xml>
-
-this is web xml file 1
-
-</xml>

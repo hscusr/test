@@ -1,0 +1,3 @@
+try to get conflict at branch
+now at master
+this is branch file. branch editing1
